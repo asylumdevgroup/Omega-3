@@ -1,0 +1,25 @@
+{
+  "blocks": [
+    {
+      "block": "funores:zombie_ore",
+      "weight": 10
+    },
+    {
+      "weight": 3
+    }
+  ],
+  "replaces": {
+    "tag": "forge:stone"
+  },
+  "frequency": {
+    "chance": 0.05,
+    "count": 1
+  },
+  "size": 22,
+  "min_height": 32,
+  "max_height": 84,
+  "dimensions": [
+    0
+  ],
+  "biomes": []
+}
