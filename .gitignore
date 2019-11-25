@@ -1,24 +1,23 @@
+# Add the following to your gitignore:
 
-classes/
+# Instance Sync
+**/*.jar
+!InstanceSync*.jar
+**/*.jar.disabled
+**/*.jar.meta
 
-crash-reports/
-
+# Optional: Generic Modpack Ignores
+**/*.log
+/.mixin.out
+/saves
+/downloads
+/resourcepacks
+.curseclient
+options.txt
 logs/
-
-saves/
-
-screenshots/
-
-XaeroWorldMap/
-
-usernamecache.json
-
-usercache.json
 
 realms_persistence.json
 
-options.txt
+usercache.json
 
-.curseclient
-
-mods/
+usernamecache.json
