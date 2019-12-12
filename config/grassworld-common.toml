@@ -1,0 +1,101 @@
+
+["BoneMeal Grass Spawn"]
+	#If True, Any Colour of Grass will Spawn on any Coloured Grass Block when BoneMeal is Applied
+	AllGrassGrowth = false
+
+["Island Feature"]
+	#If True, All Grass Islands will spawn in Multiple Colours instead of the standard single colour.
+	RainbowIslands = false
+	#If True, This will spawn Dirt Islands Floating in the Sky of the Overworld, These Islands will have extra spawn rate for Overworld Mobs
+	OverworldIslandFeature = false
+	#If True, This will spawn End Islands Floating in the Sky of the Overworld, These Islands will have extra spawn rate for End Mobs
+	EndIslandFeature = false
+	#If True, This will spawn End Islands Floating in the Sky of the End, These Islands will have extra spawn rate for End Mobs
+	EndOverWorldIslandFeature = false
+	#If True, This will spawn Nether Islands Floating in the Sky of the Overworld, These Islands will have extra spawn rate for Nether Mobs
+	NetherIslandFeature = false
+
+["Grass Feature Spawn"]
+	#If True, This will activate the spawning grass feature that spawns grass in the world on all grass blocks.
+	GrassFeature = false
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	BlueGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	BlueGrassFeatureWeight = 1
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	BlackGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	BlackGrassFeatureWeight = 1
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	BrownGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	BrownGrassFeatureWeight = 1
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	CyanGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	CyanGrassFeatureWeight = 1
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	GreenGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	GreenGrassFeatureWeight = 1
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	GreyGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	GreyGrassFeatureWeight = 1
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	LightGreyGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	LightGreyGrassFeatureWeight = 1
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	LightBlueGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	LightBlueGrassFeatureWeight = 1
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	LimeGreenGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	LimeGreenGrassFeatureWeight = 1
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	MagentaGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	MagentaGrassFeatureWeight = 1
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	PinkGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	PinkGrassFeatureWeight = 1
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	PurpleGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	PurpleGrassFeatureWeight = 1
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	OrangeGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	OrangeGrassFeatureWeight = 1
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	RedGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	RedGrassFeatureWeight = 1
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	WhiteGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	WhiteGrassFeatureWeight = 1
+	#If True, This will spawn this colour grass in the world. Set Grass Feature to false to turn all grass off!
+	YellowGrassFeature = true
+	#Sets the amount of Grass of this colour spawns
+	#Range: 1 ~ 10
+	YellowGrassFeatureWeight = 1
+
