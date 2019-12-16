@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-12-12T01:07:33.2039953Z",
+  "lastPlayed": "2019-12-15T00:44:46.1419127Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1004,21 +1004,6 @@
       "queryTimestamp": "2019-11-30T18:36:35.2758481Z",
       "fileCount": 1,
       "fileSize": 2811376
-    },
-    {
-      "folderName": "LightOverlay-3.6.2.jar",
-      "fingerprint": 379206556,
-      "fileDateHash": 4251790147,
-      "sectionID": 8,
-      "individualFingerprints": [
-        379206556
-      ],
-      "status": 1,
-      "timestamp": "2019-11-25T01:47:37.056344Z",
-      "lastWriteTimeUtc": "2019-11-25T01:47:31.9859027Z",
-      "queryTimestamp": "2019-11-30T18:36:35.2768454Z",
-      "fileCount": 1,
-      "fileSize": 315868
     },
     {
       "folderName": "CookingForBlockheads_1.14.4-7.4.0.jar",
@@ -2743,21 +2728,21 @@
       "addonID": 290209,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2834582,
-        "displayName": "rftoolspower-1.14-1.2.11-alpha.jar",
-        "fileName": "rftoolspower-1.14-1.2.11-alpha.jar",
-        "fileDate": "2019-11-30T04:48:23.44Z",
-        "fileLength": 265866,
+        "id": 2841453,
+        "displayName": "rftoolspower-1.14-1.2.12-alpha.jar",
+        "fileName": "rftoolspower-1.14-1.2.12-alpha.jar",
+        "fileDate": "2019-12-12T04:50:02.53Z",
+        "fileLength": 266162,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2834/582/rftoolspower-1.14-1.2.11-alpha.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2841/453/rftoolspower-1.14-1.2.12-alpha.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 245211,
-            "type": 2,
+            "addonId": 233105,
+            "type": 3,
             "fileId": 0
           },
           {
@@ -2768,13 +2753,13 @@
           },
           {
             "id": 0,
-            "addonId": 326041,
-            "type": 3,
+            "addonId": 245211,
+            "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 233105,
+            "addonId": 326041,
             "type": 3,
             "fileId": 0
           }
@@ -2783,12 +2768,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2129170676,
+            "fingerprint": 2960905493,
             "type": 0
           },
           {
             "foldername": "mcjty",
-            "fingerprint": 1555144149,
+            "fingerprint": 1465653121,
             "type": 0
           },
           {
@@ -2807,7 +2792,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 2457004340,
+        "packageFingerprint": 2095353888,
         "gameVersion": [
           "1.14.4",
           "Forge"
@@ -2821,12 +2806,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "rftoolspower-1.14-1.2.11-alpha.jar"
+        "FileNameOnDisk": "rftoolspower-1.14-1.2.12-alpha.jar"
       },
       "dateInstalled": "2019-11-25T01:46:20.5858405Z",
-      "dateUpdated": "2019-11-30T18:40:20.1118205Z",
-      "dateLastUpdateAttempted": "2019-11-30T18:40:20.1118205Z",
-      "status": 5,
+      "dateUpdated": "2019-12-15T00:36:06.1938092Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:36:06.1938092Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3606,7 +3591,7 @@
       "dateInstalled": "2019-11-25T01:46:19.3421656Z",
       "dateUpdated": "2019-12-12T00:56:14.2019282Z",
       "dateLastUpdateAttempted": "2019-12-12T00:56:14.2019282Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4034,6 +4019,81 @@
       "installedTargets": null
     },
     {
+      "addonID": 243478,
+      "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
+      "installedFile": {
+        "id": 2829171,
+        "displayName": "moreoverlays-1.16.1-mc1.14.4.jar",
+        "fileName": "moreoverlays-1.16.1.jar",
+        "fileDate": "2019-11-18T18:28:08.627Z",
+        "fileLength": 69234,
+        "releaseType": 3,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2829/171/moreoverlays-1.16.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1484241786,
+            "type": 0
+          },
+          {
+            "foldername": "at",
+            "fingerprint": 3938042334,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 991819815,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1822443678,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1599267937,
+        "gameVersion": [
+          "1.14.4",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "moreoverlays-1.16.1.jar"
+      },
+      "dateInstalled": "2019-12-15T00:41:41.9522784Z",
+      "dateUpdated": "2019-12-15T00:41:41.9532757Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:41:41.9532757Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 78057,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
@@ -4126,6 +4186,175 @@
       "dateUpdated": "2018-11-25T01:47:29.7698304Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 320926,
+      "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
+      "installedFile": {
+        "id": 2792197,
+        "displayName": "ScalableCatsForce-2.13.1-with-library.jar",
+        "fileName": "ScalableCatsForce-2.13.1-with-library.jar",
+        "fileDate": "2019-09-23T14:01:34.737Z",
+        "fileLength": 13863445,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2792/197/ScalableCatsForce-2.13.1-with-library.jar",
+        "isAlternate": false,
+        "alternateFileId": 2792198,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1216704137,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 240714653,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1264293505,
+            "type": 0
+          },
+          {
+            "foldername": "cats",
+            "fingerprint": 1764329230,
+            "type": 0
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 1185419476,
+            "type": 0
+          },
+          {
+            "foldername": "NOTICE",
+            "fingerprint": 3610861160,
+            "type": 0
+          },
+          {
+            "foldername": "library.properties",
+            "fingerprint": 3210911217,
+            "type": 0
+          },
+          {
+            "foldername": "rootdoc.txt",
+            "fingerprint": 1288032163,
+            "type": 0
+          },
+          {
+            "foldername": "scala",
+            "fingerprint": 587259394,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3503181929,
+        "gameVersion": [
+          "1.14.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-07-19T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ScalableCatsForce-2.13.1-with-library.jar"
+      },
+      "dateInstalled": "2019-12-15T00:41:13.3457471Z",
+      "dateUpdated": "2019-12-15T00:41:13.3627024Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:41:13.3627024Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 340991,
+      "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
+      "installedFile": {
+        "id": 2826386,
+        "displayName": "Druidcraft-1.14-0.2.32.jar",
+        "fileName": "Druidcraft-1.14-0.2.32.jar",
+        "fileDate": "2019-11-12T15:20:51.193Z",
+        "fileLength": 416381,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2826/386/Druidcraft-1.14-0.2.32.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3767626222,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2325022688,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3213408482,
+            "type": 0
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2277673814,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1809747414,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1159482599,
+        "gameVersion": [
+          "1.14.1",
+          "1.14.4",
+          "1.14.3",
+          "1.14",
+          "Forge",
+          "1.14.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-04-23T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Druidcraft-1.14-0.2.32.jar"
+      },
+      "dateInstalled": "2019-12-15T00:39:20.8654241Z",
+      "dateUpdated": "2019-12-15T00:39:20.8694129Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:39:20.8694129Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4274,7 +4503,7 @@
       "dateInstalled": "2019-11-25T01:47:29.7688331Z",
       "dateUpdated": "2019-12-12T00:55:59.9659799Z",
       "dateLastUpdateAttempted": "2019-12-12T00:55:59.9659799Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4968,14 +5197,14 @@
       "addonID": 347706,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2834583,
-        "displayName": "rftoolsbuilder-1.14-1.2.10-alpha.jar",
-        "fileName": "rftoolsbuilder-1.14-1.2.10-alpha.jar",
-        "fileDate": "2019-11-30T04:48:25.55Z",
-        "fileLength": 260122,
+        "id": 2841455,
+        "displayName": "rftoolsbuilder-1.14-1.2.11-alpha.jar",
+        "fileName": "rftoolsbuilder-1.14-1.2.11-alpha.jar",
+        "fileDate": "2019-12-12T04:51:14.237Z",
+        "fileLength": 487372,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2834/583/rftoolsbuilder-1.14-1.2.10-alpha.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2841/455/rftoolsbuilder-1.14-1.2.11-alpha.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -4996,17 +5225,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 212806071,
+            "fingerprint": 408376221,
             "type": 0
           },
           {
             "foldername": "mcjty",
-            "fingerprint": 1029886628,
+            "fingerprint": 1556814896,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 4126802772,
+            "fingerprint": 219050074,
             "type": 0
           },
           {
@@ -5016,11 +5245,11 @@
           },
           {
             "foldername": "data",
-            "fingerprint": 1640877204,
+            "fingerprint": 468163381,
             "type": 0
           }
         ],
-        "packageFingerprint": 3204291381,
+        "packageFingerprint": 2272251978,
         "gameVersion": [
           "1.14.4",
           "Forge"
@@ -5034,12 +5263,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "rftoolsbuilder-1.14-1.2.10-alpha.jar"
+        "FileNameOnDisk": "rftoolsbuilder-1.14-1.2.11-alpha.jar"
       },
       "dateInstalled": "2019-11-25T01:47:29.7688331Z",
-      "dateUpdated": "2019-11-30T18:40:18.3186145Z",
-      "dateLastUpdateAttempted": "2019-11-30T18:40:18.3186145Z",
-      "status": 5,
+      "dateUpdated": "2019-12-15T00:35:49.371777Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:35:49.371777Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5443,7 +5672,7 @@
       "dateInstalled": "2019-11-30T18:43:58.2028241Z",
       "dateUpdated": "2019-12-12T00:54:17.1059187Z",
       "dateLastUpdateAttempted": "2019-12-12T00:54:17.1059187Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5681,7 +5910,7 @@
       "dateInstalled": "2019-11-25T01:47:38.1733567Z",
       "dateUpdated": "2019-12-12T00:55:16.3994311Z",
       "dateLastUpdateAttempted": "2019-12-12T00:55:16.3994311Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6232,62 +6461,39 @@
       "installedTargets": null
     },
     {
-      "addonID": 326041,
+      "addonID": 233019,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2834579,
-        "displayName": "rftoolsbase-1.14-0.0.11-alpha.jar",
-        "fileName": "rftoolsbase-1.14-0.0.11-alpha.jar",
-        "fileDate": "2019-11-30T04:48:16.52Z",
-        "fileLength": 195094,
+        "id": 2754291,
+        "displayName": "AI-Improvements-1.14.4-0.3.0.jar",
+        "fileName": "AI-Improvements-1.14.4-0.3.0.jar",
+        "fileDate": "2019-08-03T23:36:43.903Z",
+        "fileLength": 21818,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2834/579/rftoolsbase-1.14-0.0.11-alpha.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2754/291/AI-Improvements-1.14.4-0.3.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 245211,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 233105,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
+        "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3219654840,
+            "fingerprint": 2707936195,
             "type": 0
           },
           {
-            "foldername": "mcjty",
-            "fingerprint": 343370228,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 83041781,
+            "foldername": "com",
+            "fingerprint": 3593948214,
             "type": 0
           },
           {
             "foldername": "pack.mcmeta",
-            "fingerprint": 334750689,
-            "type": 0
-          },
-          {
-            "foldername": "data",
-            "fingerprint": 2829081985,
+            "fingerprint": 21324294,
             "type": 0
           }
         ],
-        "packageFingerprint": 3540150761,
+        "packageFingerprint": 2959766188,
         "gameVersion": [
           "1.14.4",
           "Forge"
@@ -6301,12 +6507,98 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "rftoolsbase-1.14-0.0.11-alpha.jar"
+        "FileNameOnDisk": "AI-Improvements-1.14.4-0.3.0.jar"
+      },
+      "dateInstalled": "2019-12-15T00:37:54.9560716Z",
+      "dateUpdated": "2019-12-15T00:37:54.9570693Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:37:54.9570693Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 326041,
+      "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
+      "installedFile": {
+        "id": 2841449,
+        "displayName": "rftoolsbase-1.14-0.0.12-alpha.jar",
+        "fileName": "rftoolsbase-1.14-0.0.12-alpha.jar",
+        "fileDate": "2019-12-12T04:48:39.263Z",
+        "fileLength": 197724,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2841/449/rftoolsbase-1.14-0.0.12-alpha.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 233105,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 245211,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1573918599,
+            "type": 0
+          },
+          {
+            "foldername": "mcjty",
+            "fingerprint": 3397872375,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1925246870,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 334750689,
+            "type": 0
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 2829081985,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 424839664,
+        "gameVersion": [
+          "1.14.4",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "rftoolsbase-1.14-0.0.12-alpha.jar"
       },
       "dateInstalled": "2019-11-25T01:47:38.1753512Z",
-      "dateUpdated": "2019-11-30T18:40:16.6221501Z",
-      "dateLastUpdateAttempted": "2019-11-30T18:40:16.6221501Z",
-      "status": 5,
+      "dateUpdated": "2019-12-15T00:35:46.4276469Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:35:46.4276469Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -6669,154 +6961,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 325492,
-      "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
-      "installedFile": {
-        "id": 2825812,
-        "displayName": "[Forge / Fabric 1.14.x] v3.6.2",
-        "fileName": "LightOverlay-3.6.2.jar",
-        "fileDate": "2019-11-11T12:57:03.527Z",
-        "fileLength": 315868,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2825/812/LightOverlay-3.6.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 33100242,
-            "addonId": 348521,
-            "type": 3,
-            "fileId": 2825812
-          },
-          {
-            "id": 33100243,
-            "addonId": 317121,
-            "type": 1,
-            "fileId": 2825812
-          },
-          {
-            "id": 33100241,
-            "addonId": 319057,
-            "type": 1,
-            "fileId": 2825812
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1728173885,
-            "type": 3
-          },
-          {
-            "foldername": "lightoverlay_icon_lowres.png",
-            "fingerprint": 1881518080,
-            "type": 3
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3811001616,
-            "type": 3
-          },
-          {
-            "foldername": "icon.png",
-            "fingerprint": 1881518080,
-            "type": 3
-          },
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4086499865,
-            "type": 3
-          },
-          {
-            "foldername": "fabric.mod.json",
-            "fingerprint": 480275551,
-            "type": 3
-          },
-          {
-            "foldername": "me",
-            "fingerprint": 4277624826,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 379206556,
-        "gameVersion": [
-          "1.14.1",
-          "1.14.4",
-          "1.14.3",
-          "1.14",
-          "1.14.2",
-          "1.14-Snapshot"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000001",
-            "gameVersion": "1.14.1",
-            "gameVersionReleaseDate": "2019-05-13T00:00:00Z",
-            "gameVersionName": "1.14.1"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000004",
-            "gameVersion": "1.14.4",
-            "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
-            "gameVersionName": "1.14.4"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000003",
-            "gameVersion": "1.14.3",
-            "gameVersionReleaseDate": "2019-06-24T00:00:00Z",
-            "gameVersionName": "1.14.3"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000014",
-            "gameVersion": "1.14",
-            "gameVersionReleaseDate": "2019-04-23T00:00:00Z",
-            "gameVersionName": "1.14"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000002",
-            "gameVersion": "1.14.2",
-            "gameVersionReleaseDate": "2019-05-27T00:00:00Z",
-            "gameVersionName": "1.14.2"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000014",
-            "gameVersion": "1.14",
-            "gameVersionReleaseDate": "2018-10-24T00:00:00Z",
-            "gameVersionName": "1.14-Snapshot"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1700796,
-        "projectId": 325492,
-        "packageFingerprintId": 377310038,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1999326,
-        "gameVersionId": 4458,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "LightOverlay-3.6.2.jar"
-      },
-      "dateInstalled": "2019-11-25T01:47:38.1733567Z",
-      "dateUpdated": "2018-11-25T01:47:38.1733567Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 290404,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
@@ -6910,14 +7054,14 @@
       "addonID": 350006,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2834581,
-        "displayName": "rftoolsstorage-1.14-0.0.6-alpha.jar",
-        "fileName": "rftoolsstorage-1.14-0.0.6-alpha.jar",
-        "fileDate": "2019-11-30T04:48:21.283Z",
-        "fileLength": 285138,
+        "id": 2841454,
+        "displayName": "rftoolsstorage-1.14-0.0.7-alpha.jar",
+        "fileName": "rftoolsstorage-1.14-0.0.7-alpha.jar",
+        "fileDate": "2019-12-12T04:50:33.703Z",
+        "fileLength": 285646,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2834/581/rftoolsstorage-1.14-0.0.6-alpha.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2841/454/rftoolsstorage-1.14-0.0.7-alpha.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -6938,12 +7082,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 352312183,
+            "fingerprint": 3440070609,
             "type": 0
           },
           {
             "foldername": "mcjty",
-            "fingerprint": 3193459669,
+            "fingerprint": 3681370704,
             "type": 0
           },
           {
@@ -6962,7 +7106,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 1734639180,
+        "packageFingerprint": 2425727426,
         "gameVersion": [
           "1.14.4",
           "Forge"
@@ -6976,12 +7120,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "rftoolsstorage-1.14-0.0.6-alpha.jar"
+        "FileNameOnDisk": "rftoolsstorage-1.14-0.0.7-alpha.jar"
       },
       "dateInstalled": "2019-11-25T01:47:38.1723594Z",
-      "dateUpdated": "2019-11-30T18:40:25.223157Z",
-      "dateLastUpdateAttempted": "2019-11-30T18:40:25.223157Z",
-      "status": 5,
+      "dateUpdated": "2019-12-15T00:36:07.8374154Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:36:07.8374154Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7061,7 +7205,7 @@
       "dateInstalled": "2019-11-25T01:47:38.1753512Z",
       "dateUpdated": "2019-12-12T00:55:03.2555637Z",
       "dateLastUpdateAttempted": "2019-12-12T00:55:03.2555637Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7217,7 +7361,7 @@
       "dateInstalled": "2019-11-25T01:47:45.9934443Z",
       "dateUpdated": "2019-12-12T00:55:28.6427051Z",
       "dateLastUpdateAttempted": "2019-12-12T00:55:28.6427051Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7463,6 +7607,105 @@
       "installedTargets": null
     },
     {
+      "addonID": 246974,
+      "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
+      "installedFile": {
+        "id": 2835267,
+        "displayName": "[1.14.4] Solar Flux Reborn - 14.1.2",
+        "fileName": "SolarFluxReborn-1.14.4-14.1.2.jar",
+        "fileDate": "2019-12-01T11:54:31.047Z",
+        "fileLength": 233594,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2835/267/SolarFluxReborn-1.14.4-14.1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 261348,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 261061,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 227083,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 223628,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 223565,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 863333803,
+            "type": 0
+          },
+          {
+            "foldername": "tk",
+            "fingerprint": 1630467364,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4246508242,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1051583940,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3748274759,
+        "gameVersion": [
+          "1.14.4",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "SolarFluxReborn-1.14.4-14.1.2.jar"
+      },
+      "dateInstalled": "2019-12-15T00:37:32.8262285Z",
+      "dateUpdated": "2019-12-15T00:37:32.8282231Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:37:32.8282231Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 243076,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
@@ -7681,7 +7924,7 @@
       "dateInstalled": "2019-11-25T01:47:38.1743544Z",
       "dateUpdated": "2019-12-12T00:56:25.7610319Z",
       "dateLastUpdateAttempted": "2019-12-12T00:56:25.7610319Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7696,20 +7939,26 @@
       "addonID": 260912,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2835443,
-        "displayName": "xnet-1.14-1.8.5-alpha.jar",
-        "fileName": "xnet-1.14-1.8.5-alpha.jar",
-        "fileDate": "2019-12-01T18:01:22.647Z",
-        "fileLength": 512171,
+        "id": 2841456,
+        "displayName": "xnet-1.14-1.8.6-alpha.jar",
+        "fileName": "xnet-1.14-1.8.6-alpha.jar",
+        "fileDate": "2019-12-12T04:51:53.127Z",
+        "fileLength": 515632,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2835/443/xnet-1.14-1.8.5-alpha.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2841/456/xnet-1.14-1.8.6-alpha.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 224641,
+            "addonId": 270789,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 250763,
             "type": 2,
             "fileId": 0
           },
@@ -7721,25 +7970,19 @@
           },
           {
             "id": 0,
-            "addonId": 270789,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
             "addonId": 233105,
             "type": 3,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 250763,
+            "addonId": 245211,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 245211,
+            "addonId": 224641,
             "type": 2,
             "fileId": 0
           }
@@ -7748,12 +7991,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 688631122,
+            "fingerprint": 3244098505,
             "type": 0
           },
           {
             "foldername": "mcjty",
-            "fingerprint": 2356711455,
+            "fingerprint": 4013041732,
             "type": 0
           },
           {
@@ -7763,7 +8006,7 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 2238094862,
+            "fingerprint": 4219214936,
             "type": 0
           },
           {
@@ -7773,11 +8016,11 @@
           },
           {
             "foldername": "data",
-            "fingerprint": 966950125,
+            "fingerprint": 2311614675,
             "type": 0
           }
         ],
-        "packageFingerprint": 1701435159,
+        "packageFingerprint": 855207340,
         "gameVersion": [
           "1.14.4",
           "Forge"
@@ -7791,11 +8034,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "xnet-1.14-1.8.5-alpha.jar"
+        "FileNameOnDisk": "xnet-1.14-1.8.6-alpha.jar"
       },
       "dateInstalled": "2019-11-30T18:45:03.3397045Z",
-      "dateUpdated": "2019-12-12T00:57:43.7844797Z",
-      "dateLastUpdateAttempted": "2019-12-12T00:57:43.7844797Z",
+      "dateUpdated": "2019-12-15T00:36:29.0776371Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:36:29.0776371Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -7874,22 +8117,22 @@
       "addonID": 239197,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2839175,
-        "displayName": "CraftTweaker-1.14.4-5.0.1.149.jar",
-        "fileName": "CraftTweaker-1.14.4-5.0.1.149.jar",
-        "fileDate": "2019-12-10T00:28:39.877Z",
-        "fileLength": 1641286,
+        "id": 2841708,
+        "displayName": "CraftTweaker-1.14.4-5.0.1.150.jar",
+        "fileName": "CraftTweaker-1.14.4-5.0.1.150.jar",
+        "fileDate": "2019-12-12T17:43:31.553Z",
+        "fileLength": 1640310,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2839/175/CraftTweaker-1.14.4-5.0.1.149.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2841/708/CraftTweaker-1.14.4-5.0.1.150.jar",
         "isAlternate": false,
-        "alternateFileId": 2839176,
+        "alternateFileId": 2841709,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 355173381,
+            "fingerprint": 1703629954,
             "type": 0
           },
           {
@@ -7914,7 +8157,7 @@
           },
           {
             "foldername": "org",
-            "fingerprint": 1085094407,
+            "fingerprint": 857663842,
             "type": 0
           },
           {
@@ -7943,7 +8186,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 2784425419,
+        "packageFingerprint": 3590728861,
         "gameVersion": [
           "1.14.4",
           "Forge"
@@ -7957,11 +8200,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "CraftTweaker-1.14.4-5.0.1.149.jar"
+        "FileNameOnDisk": "CraftTweaker-1.14.4-5.0.1.150.jar"
       },
       "dateInstalled": "2019-11-25T01:47:43.7215195Z",
-      "dateUpdated": "2019-12-12T00:54:30.8372163Z",
-      "dateLastUpdateAttempted": "2019-12-12T00:54:30.8372163Z",
+      "dateUpdated": "2019-12-15T00:34:19.3394469Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:34:19.3394469Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -8650,7 +8893,7 @@
       "dateInstalled": "2019-11-25T01:47:48.0200249Z",
       "dateUpdated": "2019-12-12T00:56:40.8147929Z",
       "dateLastUpdateAttempted": "2019-12-12T00:56:40.8147929Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8915,7 +9158,7 @@
       "dateInstalled": "2019-11-25T01:47:48.0200249Z",
       "dateUpdated": "2019-12-12T00:54:59.3051231Z",
       "dateLastUpdateAttempted": "2019-12-12T00:54:59.3051231Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9088,26 +9331,26 @@
       "addonID": 233105,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2835437,
-        "displayName": "mcjtylib-1.14-3.5.15-alpha.jar",
-        "fileName": "mcjtylib-1.14-3.5.15-alpha.jar",
-        "fileDate": "2019-12-01T18:00:06.563Z",
-        "fileLength": 518688,
+        "id": 2841451,
+        "displayName": "mcjtylib-1.14-3.5.16-alpha.jar",
+        "fileName": "mcjtylib-1.14-3.5.16-alpha.jar",
+        "fileDate": "2019-12-12T04:48:52.11Z",
+        "fileLength": 525511,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2835/437/mcjtylib-1.14-3.5.15-alpha.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2841/451/mcjtylib-1.14-3.5.16-alpha.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 270789,
+            "addonId": 245211,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 245211,
+            "addonId": 270789,
             "type": 2,
             "fileId": 0
           }
@@ -9116,12 +9359,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3804225075,
+            "fingerprint": 3597787865,
             "type": 0
           },
           {
             "foldername": "mcjty",
-            "fingerprint": 1340249105,
+            "fingerprint": 205280191,
             "type": 0
           },
           {
@@ -9135,7 +9378,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 2009065490,
+        "packageFingerprint": 3216713393,
         "gameVersion": [
           "1.14.4",
           "Forge"
@@ -9149,11 +9392,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "mcjtylib-1.14-3.5.15-alpha.jar"
+        "FileNameOnDisk": "mcjtylib-1.14-3.5.16-alpha.jar"
       },
       "dateInstalled": "2019-11-25T01:47:48.021022Z",
-      "dateUpdated": "2019-12-12T00:56:11.8522088Z",
-      "dateLastUpdateAttempted": "2019-12-12T00:56:11.8522088Z",
+      "dateUpdated": "2019-12-15T00:35:22.4706865Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:35:22.4706865Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -9565,7 +9808,7 @@
       "dateInstalled": "2019-11-30T19:07:24.2352934Z",
       "dateUpdated": "2019-12-12T00:57:41.5903439Z",
       "dateLastUpdateAttempted": "2019-12-12T00:57:41.5903439Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9580,89 +9823,77 @@
       "addonID": 220311,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2805015,
-        "displayName": "SilentGems-1.14.4-3.4.6+79.jar",
-        "fileName": "SilentGems-1.14.4-3.4.6+79.jar",
-        "fileDate": "2019-10-09T19:26:34.35Z",
-        "fileLength": 2811376,
+        "id": 2841437,
+        "displayName": "SilentGems-1.14.4-3.4.7+80.jar",
+        "fileName": "SilentGems-1.14.4-3.4.7+80.jar",
+        "fileDate": "2019-12-12T04:24:54.733Z",
+        "fileLength": 2815252,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2805/15/SilentGems-1.14.4-3.4.6+79.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2841/437/SilentGems-1.14.4-3.4.7+80.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 31802706,
+            "id": 0,
             "addonId": 297039,
             "type": 2,
-            "fileId": 2805015
+            "fileId": 0
           },
           {
-            "id": 31802705,
+            "id": 0,
             "addonId": 242998,
             "type": 3,
-            "fileId": 2805015
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2603764041,
-            "type": 3
+            "fingerprint": 3007917832,
+            "type": 0
           },
           {
             "foldername": "net",
-            "fingerprint": 3929733174,
-            "type": 3
+            "fingerprint": 1506018797,
+            "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 613585386,
-            "type": 3
+            "fingerprint": 2094703870,
+            "type": 0
           },
           {
             "foldername": "data",
-            "fingerprint": 3780640137,
-            "type": 3
+            "fingerprint": 2664093403,
+            "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 2602036215,
-            "type": 3
+            "type": 0
           }
         ],
-        "packageFingerprint": 1531594211,
+        "packageFingerprint": 3303925108,
         "gameVersion": [
           "1.14.4"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000004",
-            "gameVersion": "1.14.4",
-            "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
-            "gameVersionName": "1.14.4"
-          }
-        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1676066,
-        "projectId": 220311,
-        "packageFingerprintId": 365381483,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1964649,
-        "gameVersionId": 4458,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "SilentGems-1.14.4-3.4.6+79.jar"
+        "FileNameOnDisk": "SilentGems-1.14.4-3.4.7+80.jar"
       },
       "dateInstalled": "2019-11-25T01:47:55.9408436Z",
-      "dateUpdated": "2018-11-25T01:47:55.9408436Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2019-12-15T00:36:24.9107771Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:36:24.9107771Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10449,7 +10680,7 @@
       "dateInstalled": "2019-11-25T01:47:50.1533205Z",
       "dateUpdated": "2019-12-12T00:55:43.5049795Z",
       "dateLastUpdateAttempted": "2019-12-12T00:55:43.5049795Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -11504,7 +11735,7 @@
       "dateInstalled": "2019-11-25T01:47:52.0811648Z",
       "dateUpdated": "2019-12-12T00:55:56.3566275Z",
       "dateLastUpdateAttempted": "2019-12-12T00:55:56.3566275Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12239,7 +12470,7 @@
       "dateInstalled": "2019-11-25T01:47:52.0821624Z",
       "dateUpdated": "2019-12-12T00:57:26.7420327Z",
       "dateLastUpdateAttempted": "2019-12-12T00:57:26.7420327Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12319,7 +12550,7 @@
       "dateInstalled": "2019-11-25T01:47:52.0801676Z",
       "dateUpdated": "2019-12-12T00:57:24.471102Z",
       "dateLastUpdateAttempted": "2019-12-12T00:57:24.471102Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13215,6 +13446,90 @@
       "installedTargets": null
     },
     {
+      "addonID": 282837,
+      "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
+      "installedFile": {
+        "id": 2828587,
+        "displayName": "v14.1.2",
+        "fileName": "AdditionalEnchantedMiner-1.14.4-14.1.2.jar",
+        "fileDate": "2019-11-17T13:47:13.133Z",
+        "fileLength": 1296746,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2828/587/AdditionalEnchantedMiner-1.14.4-14.1.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 2828588,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 320926,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 85297565,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2171437939,
+            "type": 0
+          },
+          {
+            "foldername": "jp",
+            "fingerprint": 3844035679,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 945401853,
+            "type": 0
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 3374278283,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1229376298,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1926522482,
+        "gameVersion": [
+          "1.14.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-07-19T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "AdditionalEnchantedMiner-1.14.4-14.1.2.jar"
+      },
+      "dateInstalled": "2019-12-15T00:41:13.6090433Z",
+      "dateUpdated": "2019-12-15T00:41:13.6100406Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:41:13.6100406Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 293425,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
@@ -13432,83 +13747,71 @@
       "addonID": 246640,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2824832,
-        "displayName": "MysticalAgriculture-1.14.4-2.0.3.jar",
-        "fileName": "MysticalAgriculture-1.14.4-2.0.3.jar",
-        "fileDate": "2019-11-09T21:08:44.72Z",
-        "fileLength": 717172,
+        "id": 2842423,
+        "displayName": "MysticalAgriculture-1.14.4-2.0.4.jar",
+        "fileName": "MysticalAgriculture-1.14.4-2.0.4.jar",
+        "fileDate": "2019-12-14T07:45:46.067Z",
+        "fileLength": 797541,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2824/832/MysticalAgriculture-1.14.4-2.0.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2842/423/MysticalAgriculture-1.14.4-2.0.4.jar",
         "isAlternate": false,
-        "alternateFileId": 2824833,
+        "alternateFileId": 2842424,
         "dependencies": [
           {
-            "id": 33039310,
+            "id": 0,
             "addonId": 272335,
             "type": 3,
-            "fileId": 2824832
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2087994522,
-            "type": 3
+            "fingerprint": 2321472886,
+            "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 98136372,
-            "type": 3
+            "fingerprint": 1309595872,
+            "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 870319358,
-            "type": 3
+            "fingerprint": 9992384,
+            "type": 0
           },
           {
             "foldername": "data",
-            "fingerprint": 2515762668,
-            "type": 3
+            "fingerprint": 3469663434,
+            "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 2224283009,
-            "type": 3
+            "type": 0
           }
         ],
-        "packageFingerprint": 3389591658,
+        "packageFingerprint": 4067049279,
         "gameVersion": [
           "1.14.4"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000004",
-            "gameVersion": "1.14.4",
-            "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
-            "gameVersionName": "1.14.4"
-          }
-        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1699607,
-        "projectId": 246640,
-        "packageFingerprintId": 376470680,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2019-07-19T00:00:00Z",
-        "gameVersionMappingId": 1997526,
-        "gameVersionId": 7469,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "MysticalAgriculture-1.14.4-2.0.3.jar"
+        "FileNameOnDisk": "MysticalAgriculture-1.14.4-2.0.4.jar"
       },
       "dateInstalled": "2019-11-25T01:47:58.7503302Z",
-      "dateUpdated": "2018-11-25T01:47:58.7503302Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2019-12-15T00:35:32.7043309Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:35:32.7043309Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13612,16 +13915,16 @@
       "addonID": 242195,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2836474,
-        "displayName": "DarkUtilities-1.14.4-2.0.8.jar",
-        "fileName": "DarkUtilities-1.14.4-2.0.8.jar",
-        "fileDate": "2019-12-04T02:49:45.787Z",
-        "fileLength": 269725,
+        "id": 2842269,
+        "displayName": "DarkUtilities-1.14.4-2.0.10.jar",
+        "fileName": "DarkUtilities-1.14.4-2.0.10.jar",
+        "fileDate": "2019-12-13T23:11:16.877Z",
+        "fileLength": 272078,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2836/474/DarkUtilities-1.14.4-2.0.8.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2842/269/DarkUtilities-1.14.4-2.0.10.jar",
         "isAlternate": false,
-        "alternateFileId": 2836475,
+        "alternateFileId": 2842270,
         "dependencies": [
           {
             "id": 0,
@@ -13634,12 +13937,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1993745755,
+            "fingerprint": 1873982506,
             "type": 0
           },
           {
             "foldername": "net",
-            "fingerprint": 3144235637,
+            "fingerprint": 36928498,
             "type": 0
           },
           {
@@ -13654,11 +13957,11 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 2329302058,
+            "fingerprint": 3087591522,
             "type": 0
           }
         ],
-        "packageFingerprint": 284447540,
+        "packageFingerprint": 1384505202,
         "gameVersion": [
           "1.14.4",
           "Forge"
@@ -13672,11 +13975,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "DarkUtilities-1.14.4-2.0.8.jar"
+        "FileNameOnDisk": "DarkUtilities-1.14.4-2.0.10.jar"
       },
       "dateInstalled": "2019-11-30T18:43:58.4172504Z",
-      "dateUpdated": "2019-12-12T00:54:54.0511668Z",
-      "dateLastUpdateAttempted": "2019-12-12T00:54:54.0511668Z",
+      "dateUpdated": "2019-12-15T00:34:34.7452632Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:34:34.7452632Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -13750,7 +14053,7 @@
       "dateInstalled": "2019-11-25T01:47:55.9398466Z",
       "dateUpdated": "2019-12-12T00:57:00.0543673Z",
       "dateLastUpdateAttempted": "2019-12-12T00:57:00.0543673Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -14070,26 +14373,26 @@
       "addonID": 342466,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2835439,
-        "displayName": "rftoolsutility-1.14-1.2.12-alpha.jar",
-        "fileName": "rftoolsutility-1.14-1.2.12-alpha.jar",
-        "fileDate": "2019-12-01T18:00:43.257Z",
-        "fileLength": 1134156,
+        "id": 2841452,
+        "displayName": "rftoolsutility-1.14-1.2.13-alpha.jar",
+        "fileName": "rftoolsutility-1.14-1.2.13-alpha.jar",
+        "fileDate": "2019-12-12T04:49:28.797Z",
+        "fileLength": 1128227,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2835/439/rftoolsutility-1.14-1.2.12-alpha.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2841/452/rftoolsutility-1.14-1.2.13-alpha.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 233105,
+            "addonId": 326041,
             "type": 3,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 326041,
+            "addonId": 233105,
             "type": 3,
             "fileId": 0
           }
@@ -14098,17 +14401,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1971295739,
+            "fingerprint": 2266280239,
             "type": 0
           },
           {
             "foldername": "mcjty",
-            "fingerprint": 1945358162,
+            "fingerprint": 87592504,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3078772886,
+            "fingerprint": 4115215123,
             "type": 0
           },
           {
@@ -14122,7 +14425,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 3108276252,
+        "packageFingerprint": 2523680179,
         "gameVersion": [
           "1.14.4",
           "Forge"
@@ -14136,11 +14439,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "rftoolsutility-1.14-1.2.12-alpha.jar"
+        "FileNameOnDisk": "rftoolsutility-1.14-1.2.13-alpha.jar"
       },
       "dateInstalled": "2019-11-25T01:47:58.7493327Z",
-      "dateUpdated": "2019-12-12T00:56:45.1103118Z",
-      "dateLastUpdateAttempted": "2019-12-12T00:56:45.1103118Z",
+      "dateUpdated": "2019-12-15T00:36:09.5827496Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:36:09.5827496Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -14213,7 +14516,7 @@
       "dateInstalled": "2019-12-12T01:04:01.598604Z",
       "dateUpdated": "2019-12-12T01:04:01.5996015Z",
       "dateLastUpdateAttempted": "2019-12-12T01:04:01.5996015Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -14222,7 +14525,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 322975,
@@ -14403,78 +14706,66 @@
       "addonID": 242223,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2823839,
-        "displayName": "JustEnoughCalculation-1.14.4-3.3.1.jar",
-        "fileName": "JustEnoughCalculation-1.14.4-3.3.1.jar",
-        "fileDate": "2019-11-08T06:07:28.997Z",
-        "fileLength": 289521,
+        "id": 2842641,
+        "displayName": "JustEnoughCalculation-1.14.4-3.3.2.jar",
+        "fileName": "JustEnoughCalculation-1.14.4-3.3.2.jar",
+        "fileDate": "2019-12-14T16:01:47.63Z",
+        "fileLength": 291782,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2823/839/JustEnoughCalculation-1.14.4-3.3.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2842/641/JustEnoughCalculation-1.14.4-3.3.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 32969081,
+            "id": 0,
             "addonId": 238222,
             "type": 3,
-            "fileId": 2823839
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 617355236,
-            "type": 3
+            "fingerprint": 2868768321,
+            "type": 0
           },
           {
             "foldername": "me",
-            "fingerprint": 3627846004,
-            "type": 3
+            "fingerprint": 2143362210,
+            "type": 0
           },
           {
             "foldername": "assets",
             "fingerprint": 3197836350,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 464417267,
-            "type": 3
+            "type": 0
           }
         ],
-        "packageFingerprint": 1376320546,
+        "packageFingerprint": 939722280,
         "gameVersion": [
           "1.14.4"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000004",
-            "gameVersion": "1.14.4",
-            "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
-            "gameVersionName": "1.14.4"
-          }
-        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1698398,
-        "projectId": 242223,
-        "packageFingerprintId": 375731792,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1995646,
-        "gameVersionId": 4458,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "JustEnoughCalculation-1.14.4-3.3.1.jar"
+        "FileNameOnDisk": "JustEnoughCalculation-1.14.4-3.3.2.jar"
       },
       "dateInstalled": "2019-11-25T01:47:58.7513275Z",
-      "dateUpdated": "2018-11-25T01:47:58.7513275Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2019-12-15T00:35:19.808802Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:35:19.808802Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -14869,7 +15160,7 @@
       "dateInstalled": "2019-11-25T01:47:58.7513275Z",
       "dateUpdated": "2019-12-12T00:54:27.5888985Z",
       "dateLastUpdateAttempted": "2019-12-12T00:54:27.5888985Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -14936,7 +15227,7 @@
       "dateInstalled": "2019-11-30T19:07:22.1887647Z",
       "dateUpdated": "2019-12-12T00:57:39.2884967Z",
       "dateLastUpdateAttempted": "2019-12-12T00:57:39.2884967Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -14951,14 +15242,14 @@
       "addonID": 272335,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2815719,
-        "displayName": "Cucumber-1.14.4-2.0.5.jar",
-        "fileName": "Cucumber-1.14.4-2.0.5.jar",
-        "fileDate": "2019-10-24T18:07:04.83Z",
-        "fileLength": 122954,
+        "id": 2842421,
+        "displayName": "Cucumber-1.14.4-2.0.6.jar",
+        "fileName": "Cucumber-1.14.4-2.0.6.jar",
+        "fileDate": "2019-12-14T07:27:39.703Z",
+        "fileLength": 127802,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2815/719/Cucumber-1.14.4-2.0.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2842/421/Cucumber-1.14.4-2.0.6.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -14966,56 +15257,44 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2847700340,
-            "type": 3
+            "fingerprint": 1506145850,
+            "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 2631298649,
-            "type": 3
+            "fingerprint": 2818985084,
+            "type": 0
           },
           {
             "foldername": "assets",
             "fingerprint": 785234268,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 3205790006,
-            "type": 3
+            "type": 0
           }
         ],
-        "packageFingerprint": 1925323948,
+        "packageFingerprint": 278548311,
         "gameVersion": [
           "1.14.4"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000004",
-            "gameVersion": "1.14.4",
-            "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
-            "gameVersionName": "1.14.4"
-          }
-        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1688707,
-        "projectId": 272335,
-        "packageFingerprintId": 370608995,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2019-07-19T00:00:00Z",
-        "gameVersionMappingId": 1981663,
-        "gameVersionId": 7469,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Cucumber-1.14.4-2.0.5.jar"
+        "FileNameOnDisk": "Cucumber-1.14.4-2.0.6.jar"
       },
       "dateInstalled": "2019-11-25T01:47:58.7503302Z",
-      "dateUpdated": "2018-11-25T01:47:58.7503302Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2019-12-15T00:34:21.4089139Z",
+      "dateLastUpdateAttempted": "2019-12-15T00:34:21.4089139Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -15290,7 +15569,7 @@
       "dateInstalled": "2019-11-25T01:47:58.7493327Z",
       "dateUpdated": "2019-12-12T00:57:15.5908394Z",
       "dateLastUpdateAttempted": "2019-12-12T00:57:15.5908394Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -15375,7 +15654,7 @@
       "dateInstalled": "2019-11-30T18:36:35.5670696Z",
       "dateUpdated": "2019-12-12T00:56:23.4232802Z",
       "dateLastUpdateAttempted": "2019-12-12T00:56:23.4232802Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
