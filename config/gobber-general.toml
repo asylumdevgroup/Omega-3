@@ -65,5 +65,5 @@
 	#Range: 0 ~ 255
 	gobberLuckyBlockMaxHeight = 255
 	#Generate Gobber Lucky Block in the world [true / false]
-	gobberLuckyBlockGeneration = true
+	gobberLuckyBlockGeneration = false
 

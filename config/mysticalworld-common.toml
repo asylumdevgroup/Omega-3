@@ -6,7 +6,7 @@
 	[oregen.Copper_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 6
+		oreChances = 0
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
 		minY = 32
@@ -21,7 +21,7 @@
 	[oregen.Silver_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 4
+		oreChances = 0
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
 		minY = 0
@@ -36,7 +36,7 @@
 	[oregen.Lead_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 4
+		oreChances = 0
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
 		minY = 8
@@ -66,7 +66,7 @@
 	[oregen.Amethyst_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 2
+		oreChances = 0
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
 		minY = 0
@@ -81,7 +81,7 @@
 	[oregen.Tin_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 6
+		oreChances = 0
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
 		minY = 24
@@ -196,7 +196,7 @@
 	#Silkworm spawn config.
 	[mob_spawns.silkworm_spawn]
 		#Whether or not silkworm eggs drop from leaves
-		leafDrops = true
+		leafDrops = false
 		#Chance to spawn whenever a leaf is broken (1 in X)
 		leafDropChance = 40
 		#Chance for silkworm eggs to spawn a silkworm (1 in X, 1 is guaranteed)

@@ -1,7 +1,7 @@
 
 [world]
 	#Whether world generation is enabled as a whole
-	enabled = true
+	enabled = false
 
 	[world.copper]
 		#A list of fully qualified biome names, for example "minecraft:river"
