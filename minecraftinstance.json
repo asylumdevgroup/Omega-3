@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-01-01T21:03:18.710879Z",
+  "lastPlayed": "2020-01-04T23:40:48.9648236Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -2480,75 +2480,63 @@
       "addonID": 240630,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2821334,
-        "displayName": "JustEnoughResources-1.14.4-0.10.0.66",
-        "fileName": "JustEnoughResources-1.14.4-0.10.0.66.jar",
-        "fileDate": "2019-11-03T13:19:54.573Z",
-        "fileLength": 217130,
+        "id": 2853389,
+        "displayName": "JustEnoughResources-1.14.4-0.10.0.70",
+        "fileName": "JustEnoughResources-1.14.4-0.10.0.70.jar",
+        "fileDate": "2020-01-02T11:20:10.163Z",
+        "fileLength": 219681,
         "releaseType": 3,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2821/334/JustEnoughResources-1.14.4-0.10.0.66.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2853/389/JustEnoughResources-1.14.4-0.10.0.70.jar",
         "isAlternate": false,
-        "alternateFileId": 2821335,
+        "alternateFileId": 2853390,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2472266892,
-            "type": 3
+            "fingerprint": 1376392764,
+            "type": 0
           },
           {
             "foldername": "jeresources",
-            "fingerprint": 2963009704,
-            "type": 3
+            "fingerprint": 2953261167,
+            "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 2604549910,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3118464927,
-            "type": 3
+            "fingerprint": 3829494983,
+            "type": 0
           }
         ],
-        "packageFingerprint": 113464243,
+        "packageFingerprint": 2312563799,
         "gameVersion": [
           "1.14.4"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000004",
-            "gameVersion": "1.14.4",
-            "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
-            "gameVersionName": "1.14.4"
-          }
-        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1695414,
-        "projectId": 240630,
-        "packageFingerprintId": 373992883,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1991576,
-        "gameVersionId": 4458,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "JustEnoughResources-1.14.4-0.10.0.66.jar"
+        "FileNameOnDisk": "JustEnoughResources-1.14.4-0.10.0.70.jar"
       },
       "dateInstalled": "2019-11-25T01:46:19.3391733Z",
-      "dateUpdated": "2018-11-25T01:46:19.3391733Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2020-01-04T23:38:15.3994738Z",
+      "dateLastUpdateAttempted": "2020-01-04T23:38:15.3994738Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -3554,7 +3542,7 @@
       "dateInstalled": "2019-12-26T04:02:43.3937989Z",
       "dateUpdated": "2020-01-01T20:59:59.4395489Z",
       "dateLastUpdateAttempted": "2020-01-01T20:59:59.4395489Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5011,14 +4999,14 @@
       "addonID": 266936,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2846328,
-        "displayName": "JAOPCA-1.14.4-3.0.0.12.jar",
-        "fileName": "JAOPCA-1.14.4-3.0.0.12.jar",
-        "fileDate": "2019-12-21T15:19:39.99Z",
-        "fileLength": 407567,
+        "id": 2854492,
+        "displayName": "JAOPCA-1.14.4-3.0.0.14.jar",
+        "fileName": "JAOPCA-1.14.4-3.0.0.14.jar",
+        "fileDate": "2020-01-04T14:25:18.477Z",
+        "fileLength": 407593,
         "releaseType": 3,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2846/328/JAOPCA-1.14.4-3.0.0.12.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2854/492/JAOPCA-1.14.4-3.0.0.14.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -5026,12 +5014,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1186247289,
+            "fingerprint": 907950077,
             "type": 0
           },
           {
             "foldername": "thelm",
-            "fingerprint": 1963537012,
+            "fingerprint": 3731496676,
             "type": 0
           },
           {
@@ -5045,7 +5033,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 2974274765,
+        "packageFingerprint": 4025596952,
         "gameVersion": [
           "1.14.4"
         ],
@@ -5058,12 +5046,12 @@
         "gameVersionDateReleased": "2019-07-19T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "JAOPCA-1.14.4-3.0.0.12.jar"
+        "FileNameOnDisk": "JAOPCA-1.14.4-3.0.0.14.jar"
       },
       "dateInstalled": "2019-11-25T01:47:33.0430769Z",
-      "dateUpdated": "2019-12-26T03:57:25.4931361Z",
-      "dateLastUpdateAttempted": "2019-12-26T03:57:25.4931361Z",
-      "status": 5,
+      "dateUpdated": "2020-01-04T23:38:13.2372549Z",
+      "dateLastUpdateAttempted": "2020-01-04T23:38:13.2372549Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7646,7 +7634,7 @@
       "dateInstalled": "2019-12-15T00:37:32.8262285Z",
       "dateUpdated": "2020-01-01T21:01:21.4862077Z",
       "dateLastUpdateAttempted": "2020-01-01T21:01:21.4862077Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7724,7 +7712,7 @@
       "dateInstalled": "2019-11-25T01:47:45.992447Z",
       "dateUpdated": "2020-01-01T21:00:57.5053177Z",
       "dateLastUpdateAttempted": "2020-01-01T21:00:57.5053177Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8332,14 +8320,14 @@
       "addonID": 250898,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2827525,
-        "displayName": "OreExcavation-1.6.145.jar",
-        "fileName": "OreExcavation-1.6.145.jar",
-        "fileDate": "2019-11-15T05:34:12.087Z",
-        "fileLength": 188130,
+        "id": 2853168,
+        "displayName": "OreExcavation-1.6.147.jar",
+        "fileName": "OreExcavation-1.6.147.jar",
+        "fileDate": "2020-01-02T00:20:24.187Z",
+        "fileLength": 186926,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2827/525/OreExcavation-1.6.145.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2853/168/OreExcavation-1.6.147.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -8347,61 +8335,49 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2523652082,
-            "type": 3
+            "fingerprint": 867780969,
+            "type": 0
           },
           {
             "foldername": "oreexcavation",
-            "fingerprint": 2653856092,
-            "type": 3
+            "fingerprint": 222447789,
+            "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3035184828,
-            "type": 3
+            "fingerprint": 852019423,
+            "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 130758000,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "title.png",
             "fingerprint": 1280081937,
-            "type": 3
+            "type": 0
           }
         ],
-        "packageFingerprint": 4198554466,
+        "packageFingerprint": 833505550,
         "gameVersion": [
           "1.14.4"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000004",
-            "gameVersion": "1.14.4",
-            "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
-            "gameVersionName": "1.14.4"
-          }
-        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1702835,
-        "projectId": 250898,
-        "packageFingerprintId": 378435798,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 2002110,
-        "gameVersionId": 4458,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "OreExcavation-1.6.145.jar"
+        "FileNameOnDisk": "OreExcavation-1.6.147.jar"
       },
       "dateInstalled": "2019-11-25T01:47:41.3139579Z",
-      "dateUpdated": "2018-11-25T01:47:41.3139579Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2020-01-04T23:38:31.760722Z",
+      "dateLastUpdateAttempted": "2020-01-04T23:38:31.760722Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8893,7 +8869,7 @@
       "dateInstalled": "2019-11-25T01:47:43.7205227Z",
       "dateUpdated": "2020-01-01T21:00:30.9772364Z",
       "dateLastUpdateAttempted": "2020-01-01T21:00:30.9772364Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8993,7 +8969,7 @@
       "dateInstalled": "2019-11-25T01:47:48.0200249Z",
       "dateUpdated": "2020-01-01T21:00:46.909644Z",
       "dateLastUpdateAttempted": "2020-01-01T21:00:46.909644Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9258,7 +9234,7 @@
       "dateInstalled": "2019-11-25T01:47:48.0200249Z",
       "dateUpdated": "2020-01-01T21:00:18.6511889Z",
       "dateLastUpdateAttempted": "2020-01-01T21:00:18.6511889Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9844,14 +9820,14 @@
       "addonID": 317780,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2836597,
-        "displayName": "v1.5.2 for Minecraft 1.14.4",
-        "fileName": "XaerosWorldMap_1.5.2_Forge_1.14.4.jar",
-        "fileDate": "2019-12-04T13:32:06.397Z",
-        "fileLength": 252386,
+        "id": 2853043,
+        "displayName": "v1.5.3 for Minecraft 1.14.4",
+        "fileName": "XaerosWorldMap_1.5.3_Forge_1.14.4.jar",
+        "fileDate": "2020-01-01T20:19:07.63Z",
+        "fileLength": 252579,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2836/597/XaerosWorldMap_1.5.2_Forge_1.14.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2853/43/XaerosWorldMap_1.5.3_Forge_1.14.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -9859,12 +9835,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4031424286,
+            "fingerprint": 426077619,
             "type": 0
           },
           {
             "foldername": "xaero",
-            "fingerprint": 1503458889,
+            "fingerprint": 1965877401,
             "type": 0
           },
           {
@@ -9878,7 +9854,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 382423914,
+        "packageFingerprint": 4140451907,
         "gameVersion": [
           "1.14.4"
         ],
@@ -9891,12 +9867,12 @@
         "gameVersionDateReleased": "2019-07-19T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "XaerosWorldMap_1.5.2_Forge_1.14.4.jar"
+        "FileNameOnDisk": "XaerosWorldMap_1.5.3_Forge_1.14.4.jar"
       },
       "dateInstalled": "2019-11-30T19:07:24.2352934Z",
-      "dateUpdated": "2019-12-12T00:57:41.5903439Z",
-      "dateLastUpdateAttempted": "2019-12-12T00:57:41.5903439Z",
-      "status": 5,
+      "dateUpdated": "2020-01-04T23:39:00.5656952Z",
+      "dateLastUpdateAttempted": "2020-01-04T23:39:00.5656952Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12091,59 +12067,59 @@
       "addonID": 238794,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2824789,
-        "displayName": "Nomadic Tents 10.0.2",
-        "fileName": "NomadicTents-1.14.4-10.0.2-beta.jar",
-        "fileDate": "2019-11-09T20:08:53.147Z",
-        "fileLength": 572051,
-        "releaseType": 2,
+        "id": 2853235,
+        "displayName": "Nomadic Tents 10.1.0",
+        "fileName": "NomadicTents-1.14.4-10.1.0.jar",
+        "fileDate": "2020-01-02T03:09:55.06Z",
+        "fileLength": 573986,
+        "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2824/789/NomadicTents-1.14.4-10.0.2-beta.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2853/235/NomadicTents-1.14.4-10.1.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
           {
-            "id": 33092201,
-            "addonId": 253449,
-            "type": 2,
-            "fileId": 2824789
-          },
-          {
-            "id": 33092202,
+            "id": 0,
             "addonId": 238222,
             "type": 2,
-            "fileId": 2824789
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 253449,
+            "type": 2,
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2466003946,
-            "type": 3
+            "fingerprint": 3328899544,
+            "type": 0
           },
           {
             "foldername": "nomadictents",
-            "fingerprint": 2850830517,
-            "type": 3
+            "fingerprint": 3407863058,
+            "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 2540803678,
-            "type": 3
+            "fingerprint": 859983834,
+            "type": 0
           },
           {
             "foldername": "data",
             "fingerprint": 3776542121,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 1671580073,
-            "type": 3
+            "type": 0
           }
         ],
-        "packageFingerprint": 3317928668,
+        "packageFingerprint": 1487819717,
         "gameVersion": [
           "1.14.1",
           "1.14.4",
@@ -12151,57 +12127,21 @@
           "1.14",
           "1.14.2"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000001",
-            "gameVersion": "1.14.1",
-            "gameVersionReleaseDate": "2019-05-13T00:00:00Z",
-            "gameVersionName": "1.14.1"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000004",
-            "gameVersion": "1.14.4",
-            "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
-            "gameVersionName": "1.14.4"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000003",
-            "gameVersion": "1.14.3",
-            "gameVersionReleaseDate": "2019-06-24T00:00:00Z",
-            "gameVersionName": "1.14.3"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000014",
-            "gameVersion": "1.14",
-            "gameVersionReleaseDate": "2019-04-23T00:00:00Z",
-            "gameVersionName": "1.14"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000002",
-            "gameVersion": "1.14.2",
-            "gameVersionReleaseDate": "2019-05-27T00:00:00Z",
-            "gameVersionName": "1.14.2"
-          }
-        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1699552,
-        "projectId": 238794,
-        "packageFingerprintId": 376440777,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2019-04-23T00:00:00Z",
-        "gameVersionMappingId": 1997463,
-        "gameVersionId": 7318,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "NomadicTents-1.14.4-10.0.2-beta.jar"
+        "FileNameOnDisk": "NomadicTents-1.14.4-10.1.0.jar"
       },
       "dateInstalled": "2019-11-25T01:47:55.9398466Z",
-      "dateUpdated": "2018-11-25T01:47:55.9398466Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2020-01-04T23:38:29.352163Z",
+      "dateLastUpdateAttempted": "2020-01-04T23:38:29.352163Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12794,7 +12734,7 @@
       "dateInstalled": "2019-11-25T01:47:55.9418408Z",
       "dateUpdated": "2020-01-01T21:01:19.3539092Z",
       "dateLastUpdateAttempted": "2020-01-01T21:01:19.3539092Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12804,6 +12744,75 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 237701,
+      "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
+      "installedFile": {
+        "id": 2854743,
+        "displayName": "ReAuth-3.7.0",
+        "fileName": "ReAuth-1.14-3.7.0.jar",
+        "fileDate": "2020-01-04T23:20:51.29Z",
+        "fileLength": 28082,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2854/743/ReAuth-1.14-3.7.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 144175217,
+            "type": 0
+          },
+          {
+            "foldername": "technicianlp",
+            "fingerprint": 1509110954,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3034544464,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1864659022,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3314794083,
+        "gameVersion": [
+          "1.14.4",
+          "Forge",
+          "1.15.1"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ReAuth-1.14-3.7.0.jar"
+      },
+      "dateInstalled": "2020-01-04T23:40:18.2938416Z",
+      "dateUpdated": "2020-01-04T23:40:18.2948395Z",
+      "dateLastUpdateAttempted": "2020-01-04T23:40:18.2948395Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 306770,
@@ -12862,7 +12871,7 @@
       "dateInstalled": "2019-12-26T04:02:39.1920256Z",
       "dateUpdated": "2020-01-01T21:00:33.3229657Z",
       "dateLastUpdateAttempted": "2020-01-01T21:00:33.3229657Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -13888,14 +13897,14 @@
       "addonID": 268373,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2752392,
-        "displayName": "Simply Tea! 2.0.3 for 1.14.4",
-        "fileName": "simplytea-2.0.3.jar",
-        "fileDate": "2019-08-01T04:09:10.733Z",
-        "fileLength": 99050,
-        "releaseType": 2,
+        "id": 2853108,
+        "displayName": "Simply Tea! 2.0.4 for 1.14.4",
+        "fileName": "simplytea-2.0.4.jar",
+        "fileDate": "2020-01-01T22:31:52.1Z",
+        "fileLength": 101110,
+        "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2752/392/simplytea-2.0.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2853/108/simplytea-2.0.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -13903,66 +13912,54 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3161006030,
-            "type": 3
+            "fingerprint": 354604720,
+            "type": 0
           },
           {
             "foldername": "knightminer",
-            "fingerprint": 3912678134,
-            "type": 3
+            "fingerprint": 2830603128,
+            "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 1458273640,
-            "type": 3
+            "fingerprint": 3983035522,
+            "type": 0
           },
           {
             "foldername": "data",
             "fingerprint": 41196486,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 221655341,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "simplytea.png",
             "fingerprint": 880119789,
-            "type": 3
+            "type": 0
           }
         ],
-        "packageFingerprint": 1798754966,
+        "packageFingerprint": 4033691964,
         "gameVersion": [
           "1.14.4"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000004",
-            "gameVersion": "1.14.4",
-            "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
-            "gameVersionName": "1.14.4"
-          }
-        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1612450,
-        "projectId": 268373,
-        "packageFingerprintId": 339166528,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1879307,
-        "gameVersionId": 4458,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "simplytea-2.0.3.jar"
+        "FileNameOnDisk": "simplytea-2.0.4.jar"
       },
       "dateInstalled": "2019-11-25T01:47:55.9418408Z",
-      "dateUpdated": "2018-11-25T01:47:55.9418408Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2020-01-04T23:38:47.4487701Z",
+      "dateLastUpdateAttempted": "2020-01-04T23:38:47.4487701Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -14115,7 +14112,7 @@
       "dateInstalled": "2019-11-25T01:47:55.9398466Z",
       "dateUpdated": "2020-01-01T21:01:35.9475477Z",
       "dateLastUpdateAttempted": "2020-01-01T21:01:35.9475477Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -14357,14 +14354,14 @@
       "addonID": 247217,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2812626,
-        "displayName": "XL-Food-Mod-1.14.4-2.1.1",
-        "fileName": "XL-Food-Mod-1.14.4-2.1.1.jar",
-        "fileDate": "2019-10-19T20:33:42.14Z",
-        "fileLength": 379448,
+        "id": 2853982,
+        "displayName": "XL-Food-Mod-1.14.4-2.2.1",
+        "fileName": "XL-Food-Mod-1.14.4-2.2.1.jar",
+        "fileDate": "2020-01-03T16:06:57.73Z",
+        "fileLength": 379663,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2812/626/XL-Food-Mod-1.14.4-2.1.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2853/982/XL-Food-Mod-1.14.4-2.2.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -14372,22 +14369,22 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 28460625,
+            "fingerprint": 3474277119,
             "type": 0
           },
           {
             "foldername": "mariot7",
-            "fingerprint": 60339071,
+            "fingerprint": 77530331,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 1793603300,
+            "fingerprint": 1717092034,
             "type": 0
           },
           {
             "foldername": "data",
-            "fingerprint": 1769819132,
+            "fingerprint": 3669967947,
             "type": 0
           },
           {
@@ -14401,10 +14398,9 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 3339291899,
+        "packageFingerprint": 142730270,
         "gameVersion": [
-          "1.14.4",
-          "Forge"
+          "1.14.4"
         ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
@@ -14415,12 +14411,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "XL-Food-Mod-1.14.4-2.1.1.jar"
+        "FileNameOnDisk": "XL-Food-Mod-1.14.4-2.2.1.jar"
       },
       "dateInstalled": "2019-11-30T18:46:13.3345917Z",
-      "dateUpdated": "2019-11-30T18:46:13.3355896Z",
-      "dateLastUpdateAttempted": "2019-11-30T18:46:13.3355896Z",
-      "status": 5,
+      "dateUpdated": "2020-01-04T23:39:02.7119551Z",
+      "dateLastUpdateAttempted": "2020-01-04T23:39:02.7119551Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -14506,7 +14502,7 @@
       "dateInstalled": "2019-11-25T01:47:58.7493327Z",
       "dateUpdated": "2020-01-01T21:01:07.9284529Z",
       "dateLastUpdateAttempted": "2020-01-01T21:01:07.9284529Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -15242,14 +15238,14 @@
       "addonID": 263420,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2849263,
-        "displayName": "v1.19.4 for Minecraft 1.14.4",
-        "fileName": "Xaeros_Minimap_1.19.4_Forge_1.14.4.jar",
-        "fileDate": "2019-12-25T11:19:09.627Z",
-        "fileLength": 427894,
+        "id": 2853035,
+        "displayName": "v1.19.5 for Minecraft 1.14.4",
+        "fileName": "Xaeros_Minimap_1.19.5_Forge_1.14.4.jar",
+        "fileDate": "2020-01-01T20:07:58.843Z",
+        "fileLength": 428374,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2849/263/Xaeros_Minimap_1.19.4_Forge_1.14.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2853/35/Xaeros_Minimap_1.19.5_Forge_1.14.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -15257,12 +15253,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 718194065,
+            "fingerprint": 320142264,
             "type": 0
           },
           {
             "foldername": "xaero",
-            "fingerprint": 1194869308,
+            "fingerprint": 2709855519,
             "type": 0
           },
           {
@@ -15276,7 +15272,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 2877912898,
+        "packageFingerprint": 977257429,
         "gameVersion": [
           "1.14.4"
         ],
@@ -15289,12 +15285,12 @@
         "gameVersionDateReleased": "2019-07-19T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Xaeros_Minimap_1.19.4_Forge_1.14.4.jar"
+        "FileNameOnDisk": "Xaeros_Minimap_1.19.5_Forge_1.14.4.jar"
       },
       "dateInstalled": "2019-11-30T19:07:22.1887647Z",
-      "dateUpdated": "2019-12-26T04:00:20.6950481Z",
-      "dateLastUpdateAttempted": "2019-12-26T04:00:20.6950481Z",
-      "status": 5,
+      "dateUpdated": "2020-01-04T23:38:58.6438344Z",
+      "dateLastUpdateAttempted": "2020-01-04T23:38:58.6438344Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
