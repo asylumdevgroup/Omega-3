@@ -1,4 +1,3 @@
-# RandomPatches configuration
 
 # Options related to the movement speed limits.
 [speedLimits]
@@ -66,7 +65,7 @@
 		icon32 = ""
 		# The Minecraft window title.
 		# Default: Minecraft 1.14.4
-		title = "Minecraft 1.14.4"
+		title = "ADG Omega 4"
 
 # Options related to boats.
 [boats]
