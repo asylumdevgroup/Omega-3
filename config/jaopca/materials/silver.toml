@@ -4,6 +4,8 @@
 	moduleBlacklist = []
 	#The alternative names of this material.
 	alternativeNames = []
+	#The color of this material.
+	color = 10463665
 	#The byproducts of this material.
 	extras = []
 	#The texture type of the material.
@@ -12,4 +14,8 @@
 	modelType = "metallic"
 	#Should items of this material have the enchanted glow.
 	hasEffect = false
+
+[create]
+	#The byproduct material to output in Create's crushing.
+	byproduct = "minecraft:cobblestone"
 

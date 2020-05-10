@@ -33,7 +33,7 @@ log_computer_errors = false
 #Controls the HTTP API
 [http]
 	#The maximum size (in bytes) that a computer can send or receive in one websocket packet.
-	#Range: 0 ~ 65536
+	#Range: 0 ~ 1073741824
 	max_websocket_message = 65536
 	#The number of http requests a computer can make at one time. Additional requests will be queued, and sent when the running requests have finished. Set to 0 for unlimited.
 	#Range: > 0

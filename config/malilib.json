@@ -23,6 +23,7 @@
         "exclusive": false,
         "cancel": true
       }
-    }
+    },
+    "realmsCommonConfig": true
   }
 }
