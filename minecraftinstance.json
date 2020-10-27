@@ -30,7 +30,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-09-19T19:58:04.2534295Z",
+  "lastPlayed": "2020-10-27T00:12:31.6520906Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -2502,14 +2502,14 @@
       "addonID": 325851,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 2812708,
-        "displayName": "IllagersPlus-2.0-beta",
-        "fileName": "illagers_plus-2.0.jar",
-        "fileDate": "2019-10-19T23:04:24.12Z",
-        "fileLength": 260055,
-        "releaseType": 2,
+        "id": 3083283,
+        "displayName": "illagers_plus_2.1RELEASE",
+        "fileName": "illagers_plus-2.1.jar",
+        "fileDate": "2020-10-16T18:52:56.667Z",
+        "fileLength": 374502,
+        "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2812/708/illagers_plus-2.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3083/283/illagers_plus-2.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -2517,77 +2517,59 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1516062772,
-            "type": 3
+            "fingerprint": 3911949869,
+            "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 3895062811,
-            "type": 3
+            "fingerprint": 472339581,
+            "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 1628546590,
-            "type": 3
+            "fingerprint": 4017984858,
+            "type": 0
           },
           {
             "foldername": "data",
-            "fingerprint": 2032660688,
-            "type": 3
+            "fingerprint": 1862818057,
+            "type": 0
           },
           {
             "foldername": "mcmod.info",
             "fingerprint": 891078761,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "pack.mcmeta",
             "fingerprint": 323215783,
-            "type": 3
+            "type": 0
           }
         ],
-        "packageFingerprint": 338871582,
+        "packageFingerprint": 1686728601,
         "gameVersion": [
           "1.14.4",
           "Forge"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000014.0000000004",
-            "gameVersion": "1.14.4",
-            "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
-            "gameVersionName": "1.14.4"
-          },
-          {
-            "gameVersionPadded": "0",
-            "gameVersion": "",
-            "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
-            "gameVersionName": "Forge"
-          }
-        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1685112,
-        "projectId": 325851,
-        "packageFingerprintId": 368950331,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1976652,
-        "gameVersionId": 4458,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "illagers_plus-2.0.jar"
+        "FileNameOnDisk": "illagers_plus-2.1.jar"
       },
       "dateInstalled": "2019-11-25T01:46:19.3421656Z",
-      "dateUpdated": "2018-11-25T01:46:19.3421656Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "dateUpdated": "2020-10-27T00:11:25.0301428Z",
+      "dateLastUpdateAttempted": "2020-10-27T00:11:25.0301428Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
@@ -2918,7 +2900,7 @@
       "dateInstalled": "2020-01-16T02:16:54.4243096Z",
       "dateUpdated": "2020-09-19T19:57:05.6589655Z",
       "dateLastUpdateAttempted": "2020-09-19T19:57:05.6589655Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9090,7 +9072,7 @@
       "dateInstalled": "2019-11-25T01:47:43.7215195Z",
       "dateUpdated": "2020-09-19T19:57:02.1563312Z",
       "dateLastUpdateAttempted": "2020-09-19T19:57:02.1563312Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9725,14 +9707,14 @@
       "addonID": 244786,
       "gameInstanceID": "ef3e760d-7032-4630-8323-cc67c55e6d86",
       "installedFile": {
-        "id": 3053335,
-        "displayName": "platforms-1.14-1.5.6.jar",
-        "fileName": "platforms-1.14-1.5.6.jar",
-        "fileDate": "2020-09-09T23:54:22.647Z",
-        "fileLength": 504472,
+        "id": 3088392,
+        "displayName": "platforms-1.14-1.5.7.jar",
+        "fileName": "platforms-1.14-1.5.7.jar",
+        "fileDate": "2020-10-21T07:16:04.1Z",
+        "fileLength": 504308,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/3053/335/platforms-1.14-1.5.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/3088/392/platforms-1.14-1.5.7.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -9747,12 +9729,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 773453792,
+            "fingerprint": 1366390686,
             "type": 0
           },
           {
             "foldername": "shetiphian",
-            "fingerprint": 2301786189,
+            "fingerprint": 3399958709,
             "type": 0
           },
           {
@@ -9776,7 +9758,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 2219258229,
+        "packageFingerprint": 3131816686,
         "gameVersion": [
           "1.14.4"
         ],
@@ -9789,12 +9771,12 @@
         "gameVersionDateReleased": "2019-07-19T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "platforms-1.14-1.5.6.jar"
+        "FileNameOnDisk": "platforms-1.14-1.5.7.jar"
       },
       "dateInstalled": "2019-12-26T04:06:40.9421392Z",
-      "dateUpdated": "2020-09-12T21:22:21.1212518Z",
-      "dateLastUpdateAttempted": "2020-09-12T21:22:21.1212518Z",
-      "status": 5,
+      "dateUpdated": "2020-10-27T00:12:04.5794451Z",
+      "dateLastUpdateAttempted": "2020-10-27T00:12:04.5794451Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -14455,7 +14437,7 @@
       "dateInstalled": "2019-11-25T01:47:52.0801676Z",
       "dateUpdated": "2020-09-19T19:57:20.9057169Z",
       "dateLastUpdateAttempted": "2020-09-19T19:57:20.9057169Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
