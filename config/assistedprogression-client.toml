@@ -1,0 +1,5 @@
+
+[Client]
+	#If true, Enchantment Descriptions will be shown in item tooltips
+	enableEnchantmentTooltips = true
+

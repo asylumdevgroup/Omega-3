@@ -1,0 +1,46 @@
+{
+    "kits": [
+        {
+            "name": "newbies",
+            "delay": 43200,
+            "requiredMinOpLevel": 0,
+            "items": [
+                {
+                    "name": "oak_wood",
+                    "count": 8,
+                    "displayName": "&7[&cStarter %player's Item&7]",
+                    "enchantments": [
+                    ]
+                },
+                {
+                    "name": "cooked_cod",
+                    "count": 5,
+                    "displayName": "&7[&cStarter %player's Item&7]",
+                    "enchantments": [
+                    ]
+                },
+                {
+                    "name": "cow_spawn_egg",
+                    "count": 1,
+                    "displayName": "&7[&cStarter %player's Item&7]",
+                    "enchantments": [
+                    ]
+                },
+                {
+                    "name": "stone",
+                    "count": 16,
+                    "displayName": "&7[&cStarter %player's Item&7]",
+                    "enchantments": [
+                    ]
+                },
+                {
+                    "name": "torch",
+                    "count": 8,
+                    "displayName": "&7[&cStarter %player's Item&7]",
+                    "enchantments": [
+                    ]
+                }
+            ]
+        }
+    ]
+}

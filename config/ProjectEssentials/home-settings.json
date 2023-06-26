@@ -1,0 +1,9 @@
+{
+    "respawnAtHomeAfterDeath": true,
+    "respawnHomeSelectStrategy": "Last",
+    "playSoundOnTeleport": false,
+    "showEffectOnTeleport": false,
+    "homeLimitations": {
+        "default": 2
+    }
+}
