@@ -1,5 +1,9 @@
-# Omega-3
-ADG's Experimental and Kitchen Sink Pack for 1.14.4
+# ADG Omega 3
+ADG's Experimental and Kitchen Sink Pack for 1.14.4.
+
+## Credits
+
+* EndangeredNayla (ADG Developer) for creating the Logo and Menu.
 
 ## Modlist
 * \[SBM\] Wooden Shears (by BuiltBroken)
